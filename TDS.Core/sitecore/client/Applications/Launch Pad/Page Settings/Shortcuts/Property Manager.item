@@ -1,0 +1,86 @@
+----item----
+version: 1
+id: {47C6283A-3704-449C-952C-449A71EE752E}
+database: core
+path: /sitecore/client/Applications/Launch Pad/Page Settings/Shortcuts/Property Manager
+parent: {BF621685-BB30-48B0-9FED-95D219C30E73}
+name: Property Manager
+master: {2D3A619A-0FFB-4EE4-88F6-D66673049CA2}
+template: {E20487F1-5558-41F8-B92B-5B57A1491E99}
+templatekey: Speak-AppShortcut
+
+----field----
+field: {3EF4C3B3-7DB3-4E35-B017-28CE9BEF450D}
+name: Icon
+key: icon
+content-length: 165
+
+<image mediapath="" alt="AppCenter" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{36FC2140-38FC-4706-A94C-1C5C801CE26B}" />
+----field----
+field: {4AA4A141-36A6-44F8-947D-952027D1723B}
+name: Starting Page Id
+key: starting page id
+content-length: 38
+
+{4A4CCE00-D0C3-4909-B19A-93E7584ACD89}
+----field----
+field: {803A0815-B39B-47C0-B727-58E3C8912C8D}
+name: Database
+key: database
+content-length: 4
+
+core
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: dad83838-50d4-43e4-b9a1-503fae7fc8d1
+
+----field----
+field: {9D74244B-6D0B-4689-9FB7-C914F34059E1}
+name: Tooltip
+key: tooltip
+content-length: 76
+
+Provide a GUID in the Starting Page Id (otherwise, shortcut will not appear)
+----field----
+field: {DDC2F665-6FA1-40A0-A36D-E4CA86B90759}
+name: Title
+key: title
+content-length: 16
+
+Property Manager
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140701T140349
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dad83838-50d4-43e4-b9a1-503fae7fc8d1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140701T140939:635398205797513049
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

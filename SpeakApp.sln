@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeakApp", "SpeakApp\SpeakApp.csproj", "{CA213FAB-4036-4A3E-B652-F6F9B7CDF541}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "TDS.Core", "TDS.Core\TDS.Core.scproj", "{70AF40A8-D5A1-40DF-B6DA-42256504343D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA213FAB-4036-4A3E-B652-F6F9B7CDF541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA213FAB-4036-4A3E-B652-F6F9B7CDF541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA213FAB-4036-4A3E-B652-F6F9B7CDF541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA213FAB-4036-4A3E-B652-F6F9B7CDF541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70AF40A8-D5A1-40DF-B6DA-42256504343D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AF40A8-D5A1-40DF-B6DA-42256504343D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AF40A8-D5A1-40DF-B6DA-42256504343D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{70AF40A8-D5A1-40DF-B6DA-42256504343D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AF40A8-D5A1-40DF-B6DA-42256504343D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70AF40A8-D5A1-40DF-B6DA-42256504343D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
