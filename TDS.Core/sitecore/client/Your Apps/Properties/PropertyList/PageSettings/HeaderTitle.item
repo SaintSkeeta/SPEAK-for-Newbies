@@ -1,0 +1,112 @@
+----item----
+version: 1
+id: {4D1EDFBA-3FC2-4BCE-AF4E-9325333CA4F2}
+database: core
+path: /sitecore/client/Your Apps/Properties/PropertyList/PageSettings/HeaderTitle
+parent: {A13114A1-99F0-41BB-89E5-D6D7E7A7D71B}
+name: HeaderTitle
+master: {00000000-0000-0000-0000-000000000000}
+template: {6437CFD5-76CA-48AA-BFBD-8B8D73EB5581}
+templatekey: Text Parameters
+
+----field----
+field: {6D0C0AB0-BC40-4BD0-8ACB-16612A180F14}
+name: IsVisible
+key: isvisible
+content-length: 0
+
+
+----version----
+language: de-DE
+version: 1
+revision: 700832a5-66a4-487c-afd1-eedc9997efae
+
+----field----
+field: {3564B3D0-3804-4D86-9880-B5E7473EF56C}
+name: Text
+key: text
+content-length: 20
+
+Immobilien verwalten
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140701T151711
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+700832a5-66a4-487c-afd1-eedc9997efae
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140701T151723:635398246439827574
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 121167f0-eb02-4e74-9313-c417e996cfee
+
+----field----
+field: {3564B3D0-3804-4D86-9880-B5E7473EF56C}
+name: Text
+key: text
+content-length: 17
+
+Manage Properties
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140701T150727
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+121167f0-eb02-4e74-9313-c417e996cfee
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140701T151433:635398244738697574
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

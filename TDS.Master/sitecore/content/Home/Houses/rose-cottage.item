@@ -1,0 +1,86 @@
+----item----
+version: 1
+id: {697CDE59-9F76-435A-80AB-AB9B0D2954F3}
+database: master
+path: /sitecore/content/Home/Houses/rose-cottage
+parent: {FD4E6649-39B1-4EF7-9B90-7E09890E49AE}
+name: rose-cottage
+master: {00000000-0000-0000-0000-000000000000}
+template: {514991A4-B82B-40FE-9908-DDD7CDD418A6}
+templatekey: House
+
+----version----
+language: en
+version: 1
+revision: df147712-f0df-46a7-84b7-e6c04124117f
+
+----field----
+field: {D3E2FDE2-974B-40A5-A8D4-28445074E3F1}
+name: Number of Rooms
+key: number of rooms
+content-length: 1
+
+4
+----field----
+field: {78E836C5-6CE2-4C7B-A033-06813336BAB2}
+name: Location
+key: location
+content-length: 10
+
+56 Rose St
+----field----
+field: {896712F3-3E31-4F2D-9EB9-1157F91C61F5}
+name: Description
+key: description
+content-length: 45
+
+An old style cottage for a developing family.
+----field----
+field: {EC21B42A-A186-4556-B426-6F27C27434B2}
+name: Guide Price
+key: guide price
+content-length: 8
+
+$750,000
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140701T152508
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+df147712-f0df-46a7-84b7-e6c04124117f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140701T153605:635398257658894523
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
